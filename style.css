@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+#graphWrapper{
+    width: 100%;
+    height: 100%;
+    overflow-x: scroll;
+}
+
+#graphWrapper path{
+    stroke: rgb(225, 225, 225);
+    /* fill: rgb(72, 72, 72); */
+}
